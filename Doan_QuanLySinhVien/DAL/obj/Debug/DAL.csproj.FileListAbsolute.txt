@@ -1,0 +1,15 @@
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\bin\Debug\DAL.dll
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.dll
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.pdb
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\bin\Debug\DTO.dll
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\bin\Debug\DTO.pdb
+E:\laptrinhungdung\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Doan_QuanLySinhVien\DAL\bin\Debug\DAL.dll
+D:\Doan_QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+D:\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.dll
+D:\Doan_QuanLySinhVien\DAL\obj\Debug\DAL.pdb
